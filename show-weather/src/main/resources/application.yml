@@ -1,6 +1,19 @@
 server:
   port: 8090
 
+spring:
+  application:
+    name: show-weather
+
+eureka:
+  client:
+    serviceUrl:
+      defaultZone:  http://${registry.host:localhost}:${registry.port:8761}/eureka/
+    healthcheck:
+      enabled: true
+  instance:
+    leaseRenewalIntervalInSeconds: 1
+    leaseExpirationDurationInSeconds: 2
 management:
   endpoints:
     web:

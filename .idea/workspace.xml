@@ -5,11 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="880dc48d-0e7f-4260-bdb3-c00e7fe1e1c3" name="Changes" comment="featttttttt">
+      <change afterPath="$PROJECT_DIR$/weather/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/show-weather/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/show-weather/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/show-weather/src/main/java/com/intense/bordy/showweather/ShowWeatherApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/show-weather/src/main/java/com/intense/bordy/showweather/ShowWeatherApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/show-weather/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/show-weather/src/main/resources/application.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/weather/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/weather/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather/src/main/java/com/intense/bordy/weather/controller/WeatherController.java" beforeDir="false" afterPath="$PROJECT_DIR$/weather/src/main/java/com/intense/bordy/weather/controller/WeatherController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather/src/main/java/com/intense/bordy/weather/dto/Weather.java" beforeDir="false" afterPath="$PROJECT_DIR$/weather/src/main/java/com/intense/bordy/weather/dto/Weather.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/weather/src/main/java/com/intense/bordy/weather/WeatherApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/weather/src/main/java/com/intense/bordy/weather/WeatherApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/weather/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/weather/src/main/resources/application.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,6 +58,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Project" />
@@ -65,6 +73,13 @@
     </configuration>
     <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
       <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EurekaServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="eurekaServer" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.intense.bordy.eurekaserver.EurekaServerApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -96,6 +111,7 @@
       <workItem from="1645189768089" duration="428000" />
       <workItem from="1645190215756" duration="650000" />
       <workItem from="1645190892920" duration="3153000" />
+      <workItem from="1645198594375" duration="979000" />
     </task>
     <task id="LOCAL-00001" summary="featttttttt">
       <created>1645190688429</created>

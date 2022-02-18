@@ -5,6 +5,7 @@
       <list>
         <option value="$PROJECT_DIR$/weather/pom.xml" />
         <option value="$PROJECT_DIR$/show-weather/pom.xml" />
+        <option value="$PROJECT_DIR$/eurekaServer/pom.xml" />
       </list>
     </option>
   </component>
