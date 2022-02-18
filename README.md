@@ -12,3 +12,8 @@ http://localhost:8090/hystrix
 
 et le stream se situe à l'url suivant :
 http://localhost:8090/actuator/hystrix.stream
+
+## Swagger
+
+la documentation swagger se situe à l'adresse suivante :
+http://localhost:8080/swagger-ui.html
